@@ -23,3 +23,6 @@
 **4. Testing:**
 
 - (Paste a screenshot of a successful GET request here)
+
+<img width="1366" height="738" alt="Screenshot 2026-01-28 154945" src="https://github.com/user-attachments/assets/bee58140-4171-4816-87df-cde5592203a1" />
+
