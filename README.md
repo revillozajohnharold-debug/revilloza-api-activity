@@ -26,3 +26,12 @@
 
 <img width="1366" height="738" alt="Screenshot 2026-01-28 154945" src="https://github.com/user-attachments/assets/bee58140-4171-4816-87df-cde5592203a1" />
 
+**1.Why did I choose to Embed Reviews?**
+-Answer: I embedded reviews because they are only relevant to a specific dish and are always fetched together. 
+This "one-to-few" model optimizes performance by retrieving all data in a single query and prevents orphaned data.
+
+**2.Why did I choose to Reference the Chef?**
+Answer: I referenced the chef to maintain a "single source of truth." This avoids data redundancy,
+allowing me to update a chef's info in one place rather than in every dish they create, keeping the database clean and scalable
+
+
