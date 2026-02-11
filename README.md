@@ -1,4 +1,4 @@
-# RESTful API Activity - [Your Name]
+# RESTful API Activity - [John Harold Revilloza]
 
 ## Best Practices Implementation
 
